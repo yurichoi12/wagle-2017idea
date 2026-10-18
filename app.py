@@ -11,7 +11,7 @@ from datetime import datetime, timezone, timedelta
 st.set_page_config(page_title="이벤트팀 아이디어 모음", page_icon="💡", layout="centered")
 
 # setup_idea_sheet.py 실행 후 터미널에 출력된 SPREADSHEET_ID를 여기에 붙여넣어주세요.
-SPREADSHEET_ID = "여기에_setup_idea_sheet.py가_출력한_ID를_붙여넣으세요"
+SPREADSHEET_ID = "19mXMzW6BPeCMaxCtQryCsX_F459f5DPzr2gQVzlNMvI"
 
 # 전체 UI 스타일링 (와글 북큐 검색기와 같은 톤의 보라색 테마)
 st.markdown("""
